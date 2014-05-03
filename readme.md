@@ -38,7 +38,7 @@ If you installation fails you should report the failure to errors@kalamuna.com. 
 
 ## More?
 
-https://kalamuna.atlassian.net/wiki/display/kalabox/Kalabox+Home
+https://kalamuna.atlassian.net/wiki/display/kalabox/Kalabox+Wiki
 
 -------------------------------------------------------------------------------------
 (C) 2013 Kalamuna LLC

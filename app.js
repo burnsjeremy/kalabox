@@ -17,6 +17,8 @@ var express = require('express'),
 // Initialize socket.io.
 io = require('socket.io').listen(app);
 io.set('log level', 1); // Only show warning messages.
+// Tell us about your machine!
+logger.info('This platform is ' + process.platform);
 
 // Configuration
 app.configure(function() {
